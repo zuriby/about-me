@@ -1,4 +1,5 @@
-**Züri (ASA Tzury) Bar Yochay – Software Developer & Tech Entrepreneur**
+**Züri[^1] Bar Yochay**
+Software Developer & Tech Entrepreneur
 
 **Overview:**  
 A veteran software developer with over 25 years of experience, Tzury Bar Yochay is best known as the co-founder and CTO of Reblaze Technologies—a cloud-native web security company. His career spans enterprise software, open-source projects, and cybersecurity innovations.
@@ -55,3 +56,6 @@ Utilized Microsoft technologies to optimize business workflows and data manageme
 - https://directory.fsf.org/wiki/Jquery.hotkeys
 - https://www.curiefense.io/about-us
 - https://www.link11.com/en/blog/press/link11-grows-internationally-reblaze-technologies-becomes-part-of-the-link11-group/
+
+---
+[^1]: Also spelled as Tzury
